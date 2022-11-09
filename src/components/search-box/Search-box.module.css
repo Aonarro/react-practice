@@ -1,0 +1,12 @@
+.searchBox {
+    margin-top: 10px;
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 250px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+  }
+  
